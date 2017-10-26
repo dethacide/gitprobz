@@ -14,3 +14,8 @@ def fizzbuzz(num)
 		return num
 	end
 end
+
+def subtract(b, a)
+	a-b
+end
+
